@@ -174,5 +174,5 @@ def main():
     # If the user selects 2, call the backward_elimination() function
     else:
         backward_elimination(data)
-
+        
 main()
