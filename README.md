@@ -23,5 +23,20 @@ then select option 1 or 2 to choose between Forward Selection or Backward Elimin
 
 ---
 
+## Visualization 
+
+Forward Selection for small Dataset
+![](https://github.com/rithvik78/project2/blob/main/Graphs/Forward_selection(small%20dataset).png?raw=true)
+
+
+Backward Eimination for small Dataset
+![](https://github.com/rithvik78/project2/blob/main/Graphs/Backward_elimination(Small%20Dataset).png?raw=true)
+
+
+Forward Selection for Large Dataset
+![](https://github.com/rithvik78/project2/blob/main/Graphs/Forward_selection(larger%20dataset).png?raw=true)
+
+
+---
 
 CS170 Project 2
