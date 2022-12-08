@@ -1,3 +1,4 @@
+import time
 import numpy as np
 import pandas as pd
 
@@ -174,5 +175,9 @@ def main():
     # If the user selects 2, call the backward_elimination() function
     else:
         backward_elimination(data)
-        
+
+start_time = time.time()
 main()
+end_time = time.time()
+time_elapsed = end_time - start_time
+print("Time elapsed: ", round(time_elapsed, 3))
